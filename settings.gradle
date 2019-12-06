@@ -1,0 +1,2 @@
+rootProject.name='BaiduAip'
+include ':app'
